@@ -1,2 +1,6 @@
-# mint
-.NET Minimum interpreter for embedding
+# Mint
+ちょっとしたインタプリタ言語。
+
+.NETで動きます。
+
+数式ベースの言語で、あとちょっとしたおまけとして行末までのプレーテキスト形式の引数指定もできます。
