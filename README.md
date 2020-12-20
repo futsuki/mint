@@ -11,3 +11,5 @@
 
 * `func#abc`は`func("abc")`と同じ
 * `func2(10)#abc`は`func2(10, "abc")`と同じ
+
+くわしい使い方はこちら → [UnitTestProject1/UnitTest1.cs](UnitTestProject1/UnitTest1.cs)
